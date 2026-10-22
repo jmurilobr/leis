@@ -1,0 +1,22 @@
+name: Sincroniza com o original
+
+# Traz para a main do fork o que entrou na main de ctresb/leis.
+# Usa a mesma API do botão "Sync fork" do GitHub.
+on:
+  schedule:
+    - cron: "0 9 * * *" # 06:00 em Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge upstream
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api -X POST "repos/${{ github.repository }}/merge-upstream" -f branch=main \
+            --jq '"\(.merge_type): \(.message)"'
